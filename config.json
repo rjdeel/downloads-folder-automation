@@ -1,19 +1,11 @@
 [
   {
     "name": "Programs",
-    "extensions": [
-      ".exe",
-      ".pkg",
-      ".dmg",
-      ".msi"
-    ]
+    "extensions": [".exe", ".pkg", ".dmg", ".msi"]
   },
   {
     "name": "Compressed",
-    "extensions": [
-      ".zip",
-      ".rar"
-    ]
+    "extensions": [".zip", ".rar"]
   },
   {
     "name": "Documents",
@@ -30,28 +22,14 @@
   },
   {
     "name": "Music",
-    "extensions": [
-      ".mp3",
-      ".wav"
-    ]
+    "extensions": [".mp3", ".wav"]
   },
   {
     "name": "Videos",
-    "extensions": [
-      ".mp4",
-      ".mkv"
-    ]
+    "extensions": [".mp4", ".mkv"]
   },
   {
     "name": "Pictures",
-    "extensions": [
-      ".jpg",
-      ".jpeg",
-      ".png",
-      ".svg",
-      ".gif",
-      ".tif",
-      ".tiff"
-    ]
+    "extensions": [".jpg", ".jpeg", ".png", ".svg", ".gif", ".tif", ".tiff"]
   }
 ]
